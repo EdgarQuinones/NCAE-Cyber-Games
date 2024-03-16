@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents my role as the Captain of a team participating in a Red vs. Blue cyber security competition. Our team engaged in simulated cyber security attack and defense exercises, honing skills in network defense, threat analysis, and incident response in a controlled, competitive environment.
+This repository documents my role as the Captain of a team participating in the NCAE Red vs. Blue cyber security competition. Our team engaged in simulated cyber security attack and defense exercises, honing skills in network defense, threat analysis, and incident response in a controlled, competitive environment.
 
 ## Objectives
 
