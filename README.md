@@ -47,7 +47,3 @@ I'm always open to collaborating on cyber security projects or discussing innova
 
 - **LinkedIn:** [Your LinkedIn profile](#)
 - **Email:** [Your Email Address](#)
-
----
-
-Remember to customize the content based on your specific experiences and achievements. The goal is to clearly convey your leadership role, the impact you had on your team, and your technical and strategic contributions to the competition. This README.md serves not only as a summary of your experience but also as a portfolio piece demonstrating your ability to document, lead, and educate in the field of cyber security.
