@@ -1,7 +1,3 @@
-Creating a compelling README.md for your GitHub repository, especially for a project or experience like leading a team in a Red vs. Blue cyber security competition, is crucial for showcasing your leadership, technical skills, and contribution to the cyber security community. Here's an example of how you might structure and write your README.md:
-
----
-
 # Red vs. Blue Cyber Security Competition - Team Leadership
 
 ## Overview
