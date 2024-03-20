@@ -1,21 +1,21 @@
 # NCAE Cyber Games, Spring 2024
 During my time enrolled at the University of North Florida, I participated in the NCAE Cyber Games Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
 ## Team Members
-- Edgar Quinones - Team Captain
+- **Edgar Quinones** - Team Captain
   - Responsibilities: Coordinating team efforts, and ensuring milestones are met. A blend of technical acumen and leadership skills is crucial.
-- Alex Ramudo - Network Security Administrator
+- **Alex Ramudo** - Network Security Administrator
    - Responsibilities: Managing and securing the network infrastructure, and implementing active defense strategies against cyber threats.
-- Geo Archbold - Web Security Specialist
+- **Geo Archbold** - Web Security Specialist
    - Responsibilities: Securing web servers and services (e.g., Apache, NGINX), managing SSL/TLS certificates, and ensuring database security (with a focus on PostgreSQL and MySQL).
-- Bruce Smith - Systems Security Engineer
+- **Bruce Smith** - Systems Security Engineer
    - Responsibilities: Ensuring secure configuration and management of SSH and FTP services, safeguarding against unauthorized access and data breaches.
-- Jacob Lee - CTF Coordinator / Security Analyst
+- **Jacob Lee** - CTF Coordinator / Security Analyst
    - Responsibilities: Solving and managing Capture The Flag (CTF) challenges, analyzing security puzzles and incidents, and promoting team and individual skill development in cybersecurity.
-- Froylan Tellez - Backup and Recovery Specialist
+- **Froylan Tellez** - Backup and Recovery Specialist
    - Responsibilities: Developing and implementing data backup strategies, ensuring data integrity and availability through effective recovery planning for all machines in the network.
-- Delali Simpson - DNS Security Specialist
+- **Delali Simpson** - DNS Security Specialist
    - Responsibilities: Managing and securing DNS infrastructure, and implementing policies to prevent DNS attacks and vulnerabilities.
-- Chastity Bythwood - Researcher / Documentation Specialist
+- **Chastity Bythwood** - Researcher / Documentation Specialist
    - Responsibilities: Maintaining comprehensive documentation, logging all events, and creating notes to support the team's efforts and knowledge sharing.
 
 ## Preparing for the Competition
