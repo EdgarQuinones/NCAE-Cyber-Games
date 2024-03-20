@@ -1,5 +1,24 @@
 # NCAE Red vs Blue Competition
 During my time enrolled at the University of North Florida, I participated in the NCAE Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
+## Team Members
+- Edgar Quinones - Team Lead / Project Manager
+ - Responsibilities: Overseeing project development, coordinating team efforts, and ensuring milestones are met. A blend of technical acumen and leadership skills is crucial.
+- Alex Ramudo - Network Security Administrator
+  - Responsibilities: Managing and securing the network infrastructure, and implementing active defense strategies against cyber threats.
+- Geo Archbold - Web Security Specialist
+  - Responsibilities: Securing web servers and services (e.g., Apache, NGINX), managing SSL/TLS certificates, and ensuring database security (with a focus on PostgreSQL and MySQL).
+- Bruce Smith - Systems Security Engineer
+  - Responsibilities: Ensuring secure configuration and management of SSH and FTP services, safeguarding against unauthorized access and data breaches.
+- Jacob Lee - CTF Coordinator / Security Analyst
+  - Responsibilities: Solving and managing Capture The Flag (CTF) challenges, analyzing security puzzles and incidents, and promoting team and individual skill development in cybersecurity.
+- Froylan Tellez - Backup and Recovery Specialist
+  - Responsibilities: Developing and implementing data backup strategies, ensuring data integrity and availability through effective recovery planning.
+- Delali Simpson - DNS Security Specialist
+  - Responsibilities: Managing and securing DNS infrastructure, and implementing policies to prevent DNS attacks and vulnerabilities.
+- Chastity Bythwood - Researcher / Documentation Specialist
+  - Responsibilities: Research the latest cybersecurity trends and threats, maintaining comprehensive documentation and notes to support the team's efforts and knowledge sharing.
+
+
 ## Preparing for the Competition
 This was the first Cyber Security Competition many of us had ever done, so we had a lot to learn in around a month. To be properly prepared, we used a variety of resources from both the internet and the NCAE website, along with making some notes and PowerPoints of our own.
 - ### NCAE Content:
@@ -15,7 +34,8 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
 ## Competition Day
 ![NCAE Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png "NCAE Topology")
 _NCAE Cyber Games Topology Spring 2024_
-
+### Details of Event
+As shown above, we are responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily with 8 people, we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs.  
 
 
 
