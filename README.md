@@ -1,49 +1,13 @@
-# Red vs. Blue Cyber Security Competition - Team Leadership
-
-## Overview
-
-This repository documents my role as the Captain of a team participating in the NCAE Red vs. Blue cyber security competition. Our team engaged in simulated cyber security attack and defense exercises, honing skills in network defense, threat analysis, and incident response in a controlled, competitive environment.
-
-## Objectives
-
-- **Lead and mentor a team** of cyber security enthusiasts through preparation and participation in a competitive setting.
-- **Develop and implement strategies** for both offensive and defensive security challenges.
-- **Create educational content** to enhance team skills and knowledge in various cyber security domains.
-
-## Contributions
-
-### Team Leadership and Strategy
-
-- Spearheaded the team's strategy development sessions, focusing on both attack (Red Team) and defense (Blue Team) tactics.
-- Coordinated weekly meetings to discuss progress, share knowledge, and simulate attack/defense scenarios.
-
-### Educational Materials
-
-- Developed comprehensive **PowerPoint presentations** and **training documents** covering topics such as:
-  - Network Security Fundamentals
-  - Vulnerability Assessment and Penetration Testing Techniques
-  - Incident Response and Threat Hunting Practices
-- Conducted hands-on training sessions to reinforce theoretical knowledge with practical skills.
-
-### Competition Highlights
-
-- Successfully led the team through intense, real-time cyber security scenarios, culminating in a top [X] finish among [Y] participating teams.
-- Demonstrated exceptional problem-solving skills under pressure, significantly improving the team's defensive capabilities against advanced cyber threats.
-
-## Skills and Technologies
-
-- **Cyber Security Frameworks:** NIST, CIS Controls
-- **Tools & Technologies:** Wireshark, Metasploit, Snort, Suricata, Kali Linux, OWASP ZAP
-- **Skills:** Leadership, Strategic Planning, Team Collaboration, Public Speaking, Cyber Security Training
-
-## Future Directions
-
-- Enhance the repository with more detailed case studies from the competition, including lessons learned and strategies refined.
-- Expand the educational content to include more advanced topics in cyber security, catering to both beginners and experienced practitioners.
-
-## Connect With Me
-
-I'm always open to collaborating on cyber security projects or discussing innovative security strategies. Feel free to reach out!
-
-- **LinkedIn:** [Your LinkedIn profile](#)
-- **Email:** [Your Email Address](#)
+# NCAE Red vs Blue Competition
+During my time enrolled at the University of North Florida, I participated in the NCAE Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
+## Competition Materials
+### Securing Your Systems 
+https://docs.google.com/document/d/14JEEeETkbkeeVQefMrlN5IAqQNaz7OeMTCORbs7Wqos/edit
+### Command/Service Guide
+https://docs.google.com/document/d/1XrNtJrgqn1LtroutYwVFUF1C5_BzhqNlThMmhYNokhs/edit
+### Password List
+https://docs.google.com/document/d/1w60kbvdTnjHwYQDzpZWa67rTvG4JlrH6EAasQ79rTdk/edit?usp=sharing
+### Problem-Solving Checklist 
+https://docs.google.com/document/d/1LMzcyYD8wYERr-92HqYFfHATOBWOWqIJDJh5Njcf5l0/edit
+### Event Log
+https://docs.google.com/document/d/1AHGkuw0N9yf51DdcZ6Qse8eiRjUeboFm8xxHkPv_0bM/edit?usp=sharing
