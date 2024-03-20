@@ -1,5 +1,5 @@
 # NCAE Cyber Games, Spring 2024
-During my time enrolled at the University of North Florida, I participated in the NCAE Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
+During my time enrolled at the University of North Florida, I participated in the NCAE Cyber Games Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
 ## Team Members
 - Edgar Quinones - Team Captain
   - Responsibilities: Coordinating team efforts, and ensuring milestones are met. A blend of technical acumen and leadership skills is crucial.
