@@ -1,4 +1,6 @@
 #!/bin/bash
+# This script overwrites all the keys that have the matching encryptiongs in the typelist array. 
+# This is used to quickly regenerate all keys in the /etc/ssh file when you first log into a computer.
 
 ls /etc/ssh
 echo ""
