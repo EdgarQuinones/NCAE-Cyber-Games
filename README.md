@@ -1,4 +1,4 @@
-# NCAE Red vs Blue Competition
+# NCAE Cyber Games, Spring 2024
 During my time enrolled at the University of North Florida, I participated in the NCAE Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
 ## Team Members
 - Edgar Quinones - Team Captain
@@ -34,7 +34,7 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
     - The second PowerPoint was more focused on learning the various services we would be defending on competition day, giving us a brief understanding of how they work and how to troubleshoot them. 
 ## Competition Day -  March 23rd, 10am - 5pm
 ![](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png)
-> _NCAE Cyber Games Topology Spring 2024_
+> _NCAE Cyber Games Topology_
 ### Details of Event
 As shown above, we were responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily, with 8 people we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs. Below is an event log of most of the incidents that occurred during the event, as well as how we reacted and recovered. 
 ### Event Log
