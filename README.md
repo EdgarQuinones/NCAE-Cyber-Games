@@ -44,7 +44,7 @@ As shown above, we were responsible for securing several machines, each with a s
 | 1:30  | Network file for Kali machine #2 is missing.     | Edgar looked for it, but could not find it. Looking into backing it up. | In Progress | Might have been the red team who deleted it, could be in the system.                      |
 | 4:00  | Red team is sending system-wide messages         | Alex looked for any backdoors or users they are logged in as | No Solution | Certainly a red team attack. Was never able to find where they were coming from, continued for the next hour until the competition ended. |
 
-## Skill Gained and Knowledge Earned 
+## Skills Gained and Knowledge Earned 
 We learned a multitude of topics from this competition. Whether or not we won did not matter as we gained the most from all the studying and preparing we did for the event. Below are some of the skills we gained from the NCAE Cyber Games:
 - **Incident Response**: How to quickly and effectively respond to security incidents and breaches.
 - **Network Security**: Skills related to securing a network, including understanding firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS).
