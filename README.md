@@ -39,3 +39,16 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
 As shown above, we were responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily, with 8 people we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs. Below is an event log of most of the incidents that occurred during the event, as well as how we reacted and recovered. 
 ### Event Log
 https://docs.google.com/document/d/1AHGkuw0N9yf51DdcZ6Qse8eiRjUeboFm8xxHkPv_0bM/edit?usp=sharing
+## Skill Gained and Knowledge Earned 
+We learned a multitude of topics from this competition. Whether or not we won did not matter as we gained the most from all the studying and preparing we did for the event. Below is some of the skills we gained from the NCAE Cyber Games
+Participating in an event like the NCAE Cyber Games, focusing on cyber defense against a red team, can help participants develop a wide range of skills, including:
+- **Incident Response**: How to quickly and effectively respond to security incidents and breaches.
+- **Network Security**: Skills related to securing a network, including understanding firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS).
+- **System Hardening**: Techniques for securing operating systems and applications to reduce vulnerabilities.
+- **Cyber Threat Intelligence**: Understanding and applying knowledge about current threats, vulnerabilities, and the tactics, techniques, and procedures (TTPs) used by attackers.
+- **Digital Forensics**: Skills related to investigating and analyzing cyber attacks to understand their nature, scope, and origin.
+- **Log Analysis**: The ability to sift through system and network logs to identify signs of malicious activity.
+- **Cybersecurity Best Practices**: Knowledge of industry-standard practices for securing IT environments, including password policies, patch management, and least privilege access.
+- **Teamwork and Collaboration**: Working effectively as part of a team to defend against cyber threats.
+- **Problem-Solving**: Developing critical thinking and problem-solving skills to address and mitigate security issues.
+- **Communication**: The ability to communicate technical information effectively to team members and non-technical stakeholders.
