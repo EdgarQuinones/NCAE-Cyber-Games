@@ -11,7 +11,8 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
 - ### Custom Resources:
   - [Command/Service Guide](https://docs.google.com/document/d/1XrNtJrgqn1LtroutYwVFUF1C5_BzhqNlThMmhYNokhs/edit)
     - Based on what we learned from NCAE and outside resources, we were able to make a giant document that compressed it all into a guide we were able to utilize during our competition. 
-  - [Machine Configurations PowerPoint](
+  - [Machine Configurations PowerPoint](https://docs.google.com/presentation/d/1HY_xXdgQ_eW-o6xLOcfd6rAkXAa1gjCJcTXOj9kxfWo/edit#slide=id.p)
+  - [Services PowerPoint](https://docs.google.com/presentation/d/16uhRGiZ3PHtEOM4jL6XqZ3qbtVnyW7YOP8q47wwn5VQ/edit#slide=id.p)
 
 ![NCAE Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png)
 
