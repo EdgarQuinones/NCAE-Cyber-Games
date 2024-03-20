@@ -33,7 +33,7 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
   - [Services PowerPoint](https://docs.google.com/presentation/d/16uhRGiZ3PHtEOM4jL6XqZ3qbtVnyW7YOP8q47wwn5VQ/edit#slide=id.p)
     - The second PowerPoint was more focused on learning the various services we would be defending on competition day, giving us a brief understanding of how they work and how to troubleshoot them. 
 ## Competition Day
-![](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png "NCAE Topology")
+![](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png)
 _NCAE Cyber Games Topology Spring 2024_
 ### Details of Event
 As shown above, we are responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily with 8 people, we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs. Below is an event log of most of the incidents that occurred during the event, as well as how we reacted and recovered. 
