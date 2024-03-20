@@ -3,7 +3,7 @@ During my time enrolled at the University of North Florida, I participated in th
 
 ## Preparing for the Competition
 This was the first Cyber Security Competition I had ever done, so I had a lot to learn in around a month. To be properly prepared, I used a variety of resources from both the internet and the NCAE website. Here are some documents and PowerPoint I made with my team to better prepare us. 
-- NCAE Content:
+- ### NCAE Content:
   - [Competition Basics Playlist](https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M)
     - The NCAE YouTube playlist is where a lot of my team first learned about Linux. We were able to practice Linux Administration, Networking, Routing, Services, and more. 
   - [Sandbox Mini Hacks](https://ui.sandbox.ncaecybergames.org/challenges)
