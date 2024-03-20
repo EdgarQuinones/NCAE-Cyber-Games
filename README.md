@@ -13,7 +13,7 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
     - Based on what we learned from NCAE and outside resources, we were able to make a giant document that compressed it all into a guide we were able to utilize during our competition. 
   - [Machine Configurations PowerPoint](
 
-![Alt text](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png)
+![NCAE Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png)
 
 
 
