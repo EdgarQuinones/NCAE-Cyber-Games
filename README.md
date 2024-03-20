@@ -31,7 +31,7 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
   - [Machine Configurations PowerPoint](https://docs.google.com/presentation/d/1HY_xXdgQ_eW-o6xLOcfd6rAkXAa1gjCJcTXOj9kxfWo/edit#slide=id.p)
     - Our first PowerPoint gave us a fundamental foundation for securing systems and configuring the networks for Kali, Unbuntu, and CentOS.
   - [Services PowerPoint](https://docs.google.com/presentation/d/16uhRGiZ3PHtEOM4jL6XqZ3qbtVnyW7YOP8q47wwn5VQ/edit#slide=id.p)
-    - The second PowerPoint was more focused on learning the various services we would be defending on competition day, giving us a brief understanding of how they work and how to trouble shoot them. 
+    - The second PowerPoint was more focused on learning the various services we would be defending on competition day, giving us a brief understanding of how they work and how to troubleshoot them. 
 ## Competition Day
 ![NCAE Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png "NCAE Topology")
 _NCAE Cyber Games Topology Spring 2024_
