@@ -29,38 +29,13 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
   - [Command/Service Guide](https://docs.google.com/document/d/1XrNtJrgqn1LtroutYwVFUF1C5_BzhqNlThMmhYNokhs/edit)
     - Based on what we learned from NCAE and outside resources, we were able to make a giant document that compressed it all into a guide we were able to utilize during our competition. 
   - [Machine Configurations PowerPoint](https://docs.google.com/presentation/d/1HY_xXdgQ_eW-o6xLOcfd6rAkXAa1gjCJcTXOj9kxfWo/edit#slide=id.p)
+    - Our first PowerPoint gave us a fundamental foundation for securing systems and configuring the networks for Kali, Unbuntu, and CentOS.
   - [Services PowerPoint](https://docs.google.com/presentation/d/16uhRGiZ3PHtEOM4jL6XqZ3qbtVnyW7YOP8q47wwn5VQ/edit#slide=id.p)
+    - The second PowerPoint was more focused on learning the various services we would be defending on competition day, giving us a brief understanding of how they work and how to trouble shoot them. 
 ## Competition Day
 ![NCAE Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png "NCAE Topology")
 _NCAE Cyber Games Topology Spring 2024_
 ### Details of Event
-As shown above, we are responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily with 8 people, we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Competition Materials
-### Securing Your Systems 
-https://docs.google.com/document/d/14JEEeETkbkeeVQefMrlN5IAqQNaz7OeMTCORbs7Wqos/edit
-### Command/Service Guide
-https://docs.google.com/document/d/1XrNtJrgqn1LtroutYwVFUF1C5_BzhqNlThMmhYNokhs/edit
-### Password List
-https://docs.google.com/document/d/1w60kbvdTnjHwYQDzpZWa67rTvG4JlrH6EAasQ79rTdk/edit?usp=sharing
-### Problem-Solving Checklist 
-https://docs.google.com/document/d/1LMzcyYD8wYERr-92HqYFfHATOBWOWqIJDJh5Njcf5l0/edit
+As shown above, we are responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily with 8 people, we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs. Below is an event log of most of the incidents that occurred during the event, as well as how we reacted and recovered. 
 ### Event Log
 https://docs.google.com/document/d/1AHGkuw0N9yf51DdcZ6Qse8eiRjUeboFm8xxHkPv_0bM/edit?usp=sharing
