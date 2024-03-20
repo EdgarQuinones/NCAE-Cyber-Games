@@ -40,7 +40,7 @@ As shown above, we were responsible for securing several machines, each with a s
 ### Event Log
 https://docs.google.com/document/d/1AHGkuw0N9yf51DdcZ6Qse8eiRjUeboFm8xxHkPv_0bM/edit?usp=sharing
 ## Skill Gained and Knowledge Earned 
-We learned a multitude of topics from this competition. Whether or not we won did not matter as we gained the most from all the studying and preparing we did for the event. Below is some of the skills we gained from the NCAE Cyber Games:
+We learned a multitude of topics from this competition. Whether or not we won did not matter as we gained the most from all the studying and preparing we did for the event. Below are some of the skills we gained from the NCAE Cyber Games:
 - **Incident Response**: How to quickly and effectively respond to security incidents and breaches.
 - **Network Security**: Skills related to securing a network, including understanding firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS).
 - **System Hardening**: Techniques for securing operating systems and applications to reduce vulnerabilities.
