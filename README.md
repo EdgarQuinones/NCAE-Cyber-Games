@@ -2,7 +2,7 @@
 During my time enrolled at the University of North Florida, I participated in the NCAE Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
 
 ## Preparing for the Competition
-This was the first Cyber Security Competition many of us had ever done, so we had a lot to learn in around a month. To be properly prepared, I used a variety of resources from both the internet and the NCAE website. Here are some documents and PowerPoint I made with my team to better prepare us. 
+This was the first Cyber Security Competition many of us had ever done, so we had a lot to learn in around a month. To be properly prepared, we used a variety of resources from both the internet and the NCAE website. Here are some documents and PowerPoint I made with my team to better prepare us. 
 - ### NCAE Content:
   - [Competition Basics Playlist](https://www.youtube.com/playlist?list=PLqux0fXsj7x3WYm6ZWuJnGC1rXQZ1018M)
     - The NCAE YouTube playlist is where a lot of my team first learned about Linux. We were able to practice Linux Administration, Networking, Routing, Services, and more. 
