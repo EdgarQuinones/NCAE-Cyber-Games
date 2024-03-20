@@ -1,7 +1,7 @@
 # NCAE Red vs Blue Competition
 During my time enrolled at the University of North Florida, I participated in the NCAE Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
 ## Team Members
-- Edgar Quinones - Team Lead / Project Manager
+- Edgar Quinones - Team Captain
   - Responsibilities: Overseeing project development, coordinating team efforts, and ensuring milestones are met. A blend of technical acumen and leadership skills is crucial.
 - Alex Ramudo - Network Security Administrator
    - Responsibilities: Managing and securing the network infrastructure, and implementing active defense strategies against cyber threats.
