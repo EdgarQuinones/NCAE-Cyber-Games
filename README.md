@@ -14,7 +14,7 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
   - [Services PowerPoint](https://docs.google.com/presentation/d/16uhRGiZ3PHtEOM4jL6XqZ3qbtVnyW7YOP8q47wwn5VQ/edit#slide=id.p)
 ## Competition Day
 ![NCAE Topology](https://ncaecybergames.org/_app/immutable/assets/topology.d995562d.png "NCAE Topology")
-_Reference: NCAE Cyber Games Spring 2024_
+NCAE Cyber Games Topology Spring 2024_
 
 
 
