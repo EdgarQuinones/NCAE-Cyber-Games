@@ -38,7 +38,12 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
 ### Details of Event
 As shown above, we were responsible for securing several machines, each with a specified task. For example, one machine was the web server, while another was the dns server, and so on. Luckily, with 8 people we had 6 people on computers, the captain floating to keep things running smoothly, and a person assigned to documenting and logging everything that occurs. Below is an event log of most of the incidents that occurred during the event, as well as how we reacted and recovered. 
 ### Event Log
-https://docs.google.com/document/d/1AHGkuw0N9yf51DdcZ6Qse8eiRjUeboFm8xxHkPv_0bM/edit?usp=sharing
+| Time  | Incident                                         | Response Action                                           | Status      | Notes                                                                                     |
+|-------|--------------------------------------------------|-----------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------|
+| 11:30 | Web Server content is not updating               | Geo restarted apache2 service                             | Resolved    | Seemed to be a mistake, not a red attack.                                                 |
+| 1:30  | Network file for Kali machine #2 is missing.     | Edgar looked for it, but could not find it. Looking into backing it up. | In Progress | Might have been the red team who deleted it, could be in the system.                      |
+| 4:00  | Red team is sending system-wide messages         | Alex looked for any backdoors or users they are logged in as | No Solution | Certainly a red team attack. Was never able to find where they were coming from, continued for the next hour until the competition ended. |
+
 ## Skill Gained and Knowledge Earned 
 We learned a multitude of topics from this competition. Whether or not we won did not matter as we gained the most from all the studying and preparing we did for the event. Below are some of the skills we gained from the NCAE Cyber Games:
 - **Incident Response**: How to quickly and effectively respond to security incidents and breaches.
