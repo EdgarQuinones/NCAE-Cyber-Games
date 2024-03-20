@@ -8,9 +8,10 @@ This was the first Cyber Security Competition many of us had ever done, so we ha
     - The NCAE YouTube playlist is where a lot of my team first learned about Linux. We were able to practice Linux Administration, Networking, Routing, Services, and more. 
   - [Sandbox Mini Hacks](https://ui.sandbox.ncaecybergames.org/challenges)
     - The NCAE Mini Hacks allowed us to use Virtual Machines, along with Linux, for the first time, learning how to practice what we learned from various sources practically.
+- ### Custom Resources:
   - [Command/Service Guide](https://docs.google.com/document/d/1XrNtJrgqn1LtroutYwVFUF1C5_BzhqNlThMmhYNokhs/edit)
     - Based on what we learned from NCAE and outside resources, we were able to make a giant document that compressed it all into a guide we were able to utilize during our competition. 
-
+  - [Machine Configurations PowerPoint](
 
 
 
