@@ -15,8 +15,6 @@ During my time enrolled at the University of North Florida, I participated in th
    - Responsibilities: Developing and implementing data backup strategies, ensuring data integrity and availability through effective recovery planning for all machines in the network.
 - **Delali Simpson** - DNS Security Specialist
    - Responsibilities: Managing and securing DNS infrastructure, and implementing policies to prevent DNS attacks and vulnerabilities.
-- **Chastity Bythwood** - Researcher / Documentation Specialist
-   - Responsibilities: Maintaining comprehensive documentation, logging all events, and creating notes to support the team's efforts and knowledge sharing.
 
 ## Preparing for the Competition
 This was the first Cyber Security Competition many of us had ever done, so we had a lot to learn in around a month. To be properly prepared, we used a variety of resources from both the internet and the NCAE website, along with making some notes and PowerPoints of our own.
