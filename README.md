@@ -40,7 +40,11 @@ As shown above, we were responsible for securing around 10 machines, each with a
 - How to get into a machine that you have no password to.
 - How to get the complex web content showing correctly.
 - How to get the database configured correctly and have it communicate with the web server.
-- How to delegate tasks more appropriately to keep us more effective. 
+- How to delegate tasks more appropriately to keep us more effective.
+- Multiple CTF challenges, the categories involved scripting, reverse engendering, trivia, and more.
+- How to configure a DNS server.
+- How to set up a backup server for multiple machines.
+- How to run an SSH/FTP server
 
 ## What I learned from this Event
 With this being my first competition, I had no idea what to expect. All I could do was prepare as much as I could and hope for the best. Even with all my preparation, I was not ready on competition day. This was stressful, difficult, and confusing, and I honestly wanted to give up at times. My good friend, Alex did a great job at keeping the team running smoothly as I was trying to get myself together. If I had to say what the most valuable thing is your team is, it's having people to rely on, and not doing everything by yourself. Another key thing is that you will never know everything. You will face something new and won't know how to handle that. It is very important to know how to problem solve and face the issue head-on rather than run away. This event helped me learn how to be a better teacher, captain, team player, cyber security specialist, and most of all, a better person. It's these fast-paced, all-over-the-place events that people's true selves show and give you a chance to reflect. Next time I am facing a hard problem, I won't freak out, rather I will take a breath, and take things one step at a time. I will ask for help, I will even take a break if things are that bad, and work on something else that is productive rather than doing nothing. Honestly, this event made me upset because it made me face my real self. How would I react under pressure? If I can learn from this event, it will help me in every other aspect of my life. Patience, forgiveness, perseverance, teamwork, and much more. So thank you to NCAE, this was truly an amazing event.
