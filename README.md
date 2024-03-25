@@ -1,5 +1,5 @@
 # NCAE Cyber Games, Spring 2024
-During my time enrolled at the University of North Florida, I participated in the NCAE Cyber Games Red vs Blue competition. I was the captain of a team of 8. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
+During my time enrolled at the University of North Florida, I participated in the NCAE Cyber Games Red vs Blue competition. I was the captain of a team of 7. Below are the resources we created, the event details, and the valuable knowledge we learned from this event. 
 ## Team Members
 - **Edgar Quinones** - Team Captain
   - Responsibilities: Coordinating team efforts, and ensuring milestones are met. A blend of technical acumen and leadership skills is crucial.
@@ -38,12 +38,12 @@ As shown above, we were responsible for securing several machines, each with a s
 ### Event Log
 | Time  | Incident                                         | Response Action                                           | Status      | Notes                                                                                     |
 |-------|--------------------------------------------------|-----------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------|
-| 11:30 | Web Server content is not updating               | Geo restarted apache2 service                             | Resolved    | Seemed to be a mistake, not a red attack.                                                 |
-| 1:30  | Network file for Kali machine #2 is missing.     | Edgar looked for it, but could not find it. Looking into backing it up. | In Progress | Might have been the red team who deleted it, could be in the system.                      |
+| 10:00 | The Backup Server had no password, must find another way.              | Alex used Grub Booter to go into recovery mode to reset the password and get in.    | Resolved    | We struggled with this for quite a while. It was something we did not expect at all, but once we figured out how to go into recovery mode, we managed to use that tool multiple times we got locked out of our systems. 
+| 11:00  | Website Content was not correct    | Geo was working on getting the web content correct, trying multiple configurations.         |   | Never Resolved | The web content they wanted was nothing we had ever seen before. This led us to try everything we could think of, researching, and trying multiple files, and yet we never figured it out.
 | 4:00  | Red team is sending system-wide messages         | Alex looked for any backdoors or users they are logged in as | No Solution | Certainly a red team attack. Was never able to find where they were coming from, continued for the next hour until the competition ended. |
 
 ## Skills Gained and Knowledge Earned 
-We learned a multitude of topics from this competition. Whether or not we won did not matter as we gained the most from all the studying and preparing we did for the event. Below are some of the skills we gained from the NCAE Cyber Games:
+We learned a multitude of topics from this competition. Whether or not we had gotten 2nd place did not matter as we gained the most from all the studying and preparing we did for the event. Below are some of the skills we gained from the NCAE Cyber Games:
 - **Incident Response**: How to quickly and effectively respond to security incidents and breaches.
 - **Network Security**: Skills related to securing a network, including understanding firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS).
 - **System Hardening**: Techniques for securing operating systems and applications to reduce vulnerabilities.
