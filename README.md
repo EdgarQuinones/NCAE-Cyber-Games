@@ -3,19 +3,19 @@
 As a student at the University of North Florida, I led a team of 7 in the NCAE Cyber Games Red vs Blue competition. This event provided valuable hands-on experience in cybersecurity, with the team working to secure various machines and tackle complex security challenges. Below are the resources we created, the event details, and the lessons learned during this intense competition.  
 
 ## Team Members  
-- **Edgar Quinones** - Team Captain  
+- Team Captain  
   - **Responsibilities**: Coordinating the team’s efforts and ensuring milestones were met, blending technical skills with leadership.  
-- **Alex Ramudo** - Network Security Administrator  
+- Network Security Administrator  
   - **Responsibilities**: Managing and securing network infrastructure, implementing defense strategies against cyber threats.  
-- **Geo Archbold** - Web Security Specialist  
+- Web Security Specialist  
   - **Responsibilities**: Securing web servers, managing SSL/TLS certificates, and ensuring database security.  
-- **Bruce Smith** - Systems Security Engineer  
+- Systems Security Engineer  
   - **Responsibilities**: Securing SSH and FTP services, preventing unauthorized access and data breaches.  
-- **Jacob Lee** - CTF Coordinator / Security Analyst  
+- CTF Coordinator / Security Analyst  
   - **Responsibilities**: Managing Capture The Flag (CTF) challenges, analyzing security incidents, and fostering skill development.  
-- **Froylan Tellez** - Backup and Recovery Specialist  
+- Backup and Recovery Specialist  
   - **Responsibilities**: Developing and implementing data backup and recovery strategies.  
-- **Delali Simpson** - DNS Security Specialist  
+- DNS Security Specialist  
   - **Responsibilities**: Securing DNS infrastructure and preventing DNS attacks and vulnerabilities.  
 
 ## Preparing for the Competition  
